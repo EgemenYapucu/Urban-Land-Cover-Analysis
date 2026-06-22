@@ -46,9 +46,9 @@ The dataset contains multiple feature groups such as:
 ## Project Structure
 
 ```text
-Urban-Land-Cover-Analize/
+Urban-Land-Cover-Analysis/
 ├── Data.txt
-├── Urban Land Cover Analize.py
+├── Urban Land Cover Analysis.py
 ├── training.csv
 └── testing.csv
 ```
@@ -104,11 +104,11 @@ These metrics are used to compare model performance across different cross-valid
 
 Clone the repository:
 ```
-git clone https://github.com/EgemenYapucu/Urban-Land-Cover-Analize.git
+git clone https://github.com/EgemenYapucu/Urban-Land-Cover-Analysis.git
 ```
 Go to the project folder:
 ```
-cd Urban-Land-Cover-Analize
+cd Urban-Land-Cover-Analysis
 ```
 Install the required libraries:
 ```
@@ -116,7 +116,7 @@ pip install pandas numpy scikit-learn matplotlib
 ```
 Run the Python script:
 ```
-python "Urban Land Cover Analize.py"
+python "Urban Land Cover Analysis.py"
 ```
 ### Dataset Reference
 
